@@ -1,0 +1,26 @@
+{
+    "myImages.image1": {
+        "id": "myImages.image1",
+        "data": "hwQQABAAAAAAAGZmZgYAAABmd3d3ZwYAYHd3d3d3ZwBgd3d3d3dnAHZ3d3d3d3cGdnd3d3d3dwZ2d3d3d3d3BnZ3d3d3d3cGdnd3d3d3dwZ2d3d3d3d3BnZ3d3d3d3cGYHd3d3d3ZwBgd3d3d3dnAABmd3d3ZwYAAABmZmYGAAAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "body"
+    },
+    "myImages.image2": {
+        "id": "myImages.image2",
+        "data": "hwQQABAAAAAAAGZmZgYAAABmd3d3ZwYAYHd3d3d3ZwBgd3d3d3dnAHZ3d3d3d3cGdnc3d3d3dwZ2d3d3d3d3BnZ3d3d3d3cGdnd3d3d3dwZ2d3d3d3d3BnZ3N3d3d3cGYHd3d3d3ZwBgd3d3d3dnAABmd3d3ZwYAAABmZmYGAAAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "head"
+    },
+    "myImages.image3": {
+        "id": "myImages.image3",
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAACIiIgIAAAAgMzMzIwBgADIzMzMzAmAmMzEzMzMjAGYzEzMzMyMAYOYzMzMzI7DrPjMzMzMj6y4zMzMzMyMOIDMzMzMzIwAgMzMzMzMjAAAyMzMzMwIAACAzMzMjAAAAACIiIgIAAAAAAAAAAAAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "food"
+    }
+}

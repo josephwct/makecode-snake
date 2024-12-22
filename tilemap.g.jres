@@ -1,0 +1,33 @@
+{
+    "myTiles.transparency16": {
+        "id": "myTiles.transparency16",
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myTiles.",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "Map1": {
+        "id": "Map1",
+        "data": "MTAxMDAwMTAwMDBhMGEwYTBhMGMwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwMTA2MDYwNjA2MDYwNjA2MDYwNjA2MDYwNjAyMGEwYTA0MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDgwYTBhMDQwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwODBhMGEwNDA5MDkwOTA5MDcwNzA3MDcwOTA5MDkwOTA4MGMwYTA0MDkwOTA5MDgwYjBiMGIwYjA0MDkwOTA5MDgwYTBhMDQwOTA5MDkwMzBiMGIwYjBiMDQwOTA5MDkwODBhMGEwNDA5MDkwODBiMGIwYzBiMGIwNDA5MDkwOTA4MGEwYTA0MDkwOTA4MGIwYjBiMGIwNDA5MDkwOTA5MDgwYzBhMDQwOTA5MDkwNjA2MDYwNjA5MDkwOTA5MDkwODBhMGMwNDA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA4MGEwYTA0MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDgwYTBhMDQwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwODBhMGEwNDA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA4MGEwYTA1MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDMwYTBhMGEwYTBhMGMwYTBhMGEwYTBhMGMwYTBhMGEwYTBhMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "dataEncoding": "base64",
+        "namespace": "myTiles.",
+        "mimeType": "application/mkcd-tilemap",
+        "displayName": "Map",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tileGrass3",
+            "sprites.castle.tileGrass1",
+            "sprites.castle.tileGrass2"
+        ]
+    }
+}
